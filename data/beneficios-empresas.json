@@ -1,0 +1,19 @@
+{
+  "beneficios": [
+    {
+      "icono": "img/beneficios/1.png",
+      "titulo": "Imagen Corporativa Verde",
+      "descripcion": "Mejora tu reputación con entregas ecológicas que reflejan tu compromiso ambiental"
+    },
+    {
+      "icono": "img/beneficios/2.png",
+      "titulo": "Ahorro en Costos",
+      "descripcion": "Reduce gastos operativos con tarifas competitivas y sin costos ocultos"
+    },
+    {
+      "icono": "img/beneficios/3.png",
+      "titulo": "Huella de Carbono Cero",
+      "descripcion": "Todas las entregas son 100% carbono neutral usando vehículos eléctricos"
+    }
+  ]
+}

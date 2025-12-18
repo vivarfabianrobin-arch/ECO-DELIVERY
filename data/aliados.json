@@ -1,0 +1,25 @@
+{
+  "aliados": [
+    {
+      "nombre": "Pasteleria Anette",
+      "ubicacion": "Bogotá",
+      "descripcion": "Es una marca de repostería artesanal que representa el sector de emprendimientos conscientes.",
+      "logo": "img/aliados/1.png",
+      "colorFondo": "#e8f5e9"
+    },
+    {
+      "nombre": "Almacenes Éxito",
+      "ubicacion": "Envigado",
+      "descripcion": "Líder del comercio al por menor en Colombia con la estrategia de logística verde más grande del país.",
+      "logo": "img/aliados/2.png",
+      "colorFondo": "#f1f8e9"
+    },
+    {
+      "nombre": "Grupo Nutresa",
+      "ubicacion": "Medellín",
+      "descripcion": "Empresa de alimentos más sostenible del mundo, enfocada en la distribución limpia y el abastecimiento responsable.",
+      "logo": "img/aliados/3.png",
+      "colorFondo": "#c8e6c9"
+    }
+  ]
+}

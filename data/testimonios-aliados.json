@@ -1,0 +1,14 @@
+{
+  "testimonios": [
+    {
+      "nombre": "Carlos Mendoza",
+      "empresa": "Restaurante Verde Orgánico",
+      "comentario": "Desde que usamos EcoDelivery, nuestros clientes valoran más nuestro compromiso ambiental. Las entregas son rápidas y el servicio es excelente."
+    },
+    {
+      "nombre": "Ana Lucía Torres",
+      "empresa": "Farmacia Salud Natural",
+      "comentario": "Perfecta sincronía entre nuestros valores y el servicio. Los riders son profesionales y las entregas siempre llegan a tiempo."
+    }
+  ]
+}
